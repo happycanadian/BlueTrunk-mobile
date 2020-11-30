@@ -1,0 +1,2 @@
+# BlueTrunk - Mobile Application UX
+This application was designed for travelers with accessibility needs. Blue Trunk aims to reduce the hardship of finding places to stay, eat, and visit that are able to accommodate their needs with this software. This is acheived by having a social platform where both businesses and people can upload and share information to build a knowledgebase, enabling users to discover information easily about businesses in their area of living or travel.
